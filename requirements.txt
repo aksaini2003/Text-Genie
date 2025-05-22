@@ -1,7 +1,6 @@
-streamlit==1.24.1
-langchain==0.0.265
-
-langchain-groq==0.0.25
-faiss-cpu==1.7.4
-huggingface-hub==0.16.4
-python-dotenv==1.0.0
+streamlit==1.44.0
+langchain==0.3.21
+langchain-groq==0.3.2
+faiss-cpu==1.10.0
+langchain-huggingface==0.1.2
+python-dotenv==1.1.0
